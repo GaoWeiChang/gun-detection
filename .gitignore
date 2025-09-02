@@ -1,0 +1,11 @@
+# virtual env.
+venv/
+
+# DVC
+.dvc/cache/
+.dvc/tmp/
+
+# Data files
+artifacts/raw/
+artifacts/models/
+GUN_OBJECT_DETECTION.egg-info/

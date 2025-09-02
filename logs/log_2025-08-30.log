@@ -1,0 +1,5 @@
+2025-08-30 23:58:47,906 - INFO - Created the artifacts\raw
+2025-08-30 23:58:47,907 - ERROR - Error while data ingestion pipeline
+2025-08-30 23:59:18,710 - INFO - Download the data from C:\Users\user\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-08-30 23:59:18,713 - INFO - Images moved sucesfully..
+2025-08-30 23:59:18,715 - INFO - Labels moved sucesfully..

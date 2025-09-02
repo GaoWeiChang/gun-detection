@@ -1,0 +1,8 @@
+2025-09-01 15:51:36,864 - INFO - Data Processing Initialized...
+2025-09-01 15:51:36,864 - INFO - Loading Data for index 0
+2025-09-01 15:51:36,864 - INFO - Image Path : artifacts/raw\Images\1.jpeg
+2025-09-01 15:52:54,035 - INFO - Data Processing Initialized...
+2025-09-01 15:52:54,035 - INFO - Loading Data for index 0
+2025-09-01 15:52:54,036 - INFO - Image Path : artifacts/raw\Images\1.jpeg
+2025-09-01 23:34:04,384 - ERROR - Failed to initilize model training 'ModelTraining' object has no attribute 'model'
+2025-09-01 23:38:47,291 - ERROR - Failed to initilize model training 'FasterRCNNModel' object has no attribute 'device'
